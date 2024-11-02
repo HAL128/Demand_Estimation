@@ -10,6 +10,7 @@
     <br>
     Enhancing Property Value Assessment with Multi-Facility Data
     <br>
+    <br>
     <a>Haruto Hirata</a>
   </p>
 </p>
