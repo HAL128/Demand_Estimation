@@ -44,7 +44,7 @@ Codebase/
 <!-- 2. プロフィールや連絡先を変更 -->
 ### Haruto Hirata / 平田 温大
 - ✍ Tyler Junior College (Computer Science)
-- 🧑‍💻 I'm interested in data science in finance (market analysis) and geography.
+- 🧑‍💻 I'm interested in data science in finance (market analysis.
 - 📫 Contact: [Linkedin](https://www.linkedin.com/in/harutohirata12) / hhalhir@gmail.com
 <br>
 
